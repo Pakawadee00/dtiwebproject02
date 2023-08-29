@@ -1,0 +1,24 @@
+span{
+    background-color: #3fe068;
+}
+img{
+    width: 100px;
+}
+#a1{
+    border: 5px solid hsl(239, 70%, 45%);
+}
+#a2{
+    border: 5px solid hsl(0, 82%, 51%);
+}
+.xx{
+    text-decoration: underline;
+}
+h1{
+    background-color: blue;
+}
+strong{
+    background-color: blue;
+}
+#a3{
+    background-color: blue;
+}

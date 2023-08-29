@@ -1,0 +1,13 @@
+p{
+    background-color: blueviolet;
+}
+hr{
+    width: 80%;
+    height: 10px;
+    border: none;
+    background-color: #307bec;
+}
+*{
+    text-decoration: underline;
+    background-color: #58c497;
+}
